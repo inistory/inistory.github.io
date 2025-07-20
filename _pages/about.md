@@ -35,28 +35,28 @@ I am a master's student at Yonsei University, Graduate School of Computer Scienc
 - [GitHub](https://github.com/inistory)  
 - [Blog](https://inistory.tistory.com/)
 
-### Curriculum Vitae & Portfolio
+### CV & Portfolio
 - <a href="/assets/pdf/JunginKim_CV.pdf" target="_blank">Download CV (PDF)</a>  
 - <a href="/assets/pdf/Jungin_Kim_Portfolio.pdf" target="_blank">Download Portfolio (PDF)</a>
 
 ### Publications
 - **K-ToPiC: Korean Dialect Toxicity Polishing with Curriculum Learning-based Span Detection** <br>
-**Jungin Kim**, Soohan Lim, Hyeseon Ahn, Sang-Min Choi, Yo-Sub Han
-<span style="color: gray; font-style: italic;">Accepted to Korea Computer Congress 2025 (KCC 2025)</span>
+**Jungin Kim**, Soohan Lim, Hyeseon Ahn, Sang-Min Choi, Yo-Sub Han<br>
+<span style="color: gray; font-style: italic;">Accepted to KCC 2025</span>
 
 - **Marking Code Without Breaking It: Code Watermarking for Detecting LLM-Generated Code** [<a href="https://arxiv.org/abs/2502.18851" target="_blank">arXiv</a>]<br>
-**Jungin Kim**, Shinwoo Park, Yo-Sub Han
+**Jungin Kim**, Shinwoo Park, Yo-Sub Han<br>
 <span style="color: gray; font-style: italic;">Under Review</span>
 
 - **TCProF: Time-Complexity Prediction SSL Framework** [<a href="https://aclanthology.org/2025.naacl-long.482/" target="_blank">NAACL 2025</a>]<br>
-Joonghyuk Hahn, Hyeseon Ahn, **Jungin Kim**, Soohan Lim, Yo-Sub Han
+Joonghyuk Hahn, Hyeseon Ahn, **Jungin Kim**, Soohan Lim, Yo-Sub Han<br>
 <span style="color: gray; font-style: italic;">Accepted to NAACL 2025</span>
 
 - **CodeComplex: A Time-Complexity Dataset for Bilingual Source Codes** [<a href="https://arxiv.org/abs/2401.08719v2" target="_blank">arXiv</a>]<br>
-Seung-Yeop Baik, Joonghyuk Hahn, **Jungin Kim**, Mingi Jeon, Yo-Sub Han, Sang-Ki Ko
+Seung-Yeop Baik, Joonghyuk Hahn, **Jungin Kim**, Mingi Jeon, Yo-Sub Han, Sang-Ki Ko<br>
 <span style="color: gray; font-style: italic;">Under Review</span>
 
 - **SharedCon: Implicit Hate Speech Detection using Shared Semantics** [<a href="https://aclanthology.org/2024.findings-acl.622/" target="_blank">ACL 2024 Findings</a>]<br>
-Hyeseon Ahn, Youngwook Kim, **Jungin Kim**, Yo-Sub Han
-<span style="color: gray; font-style: italic;">Published in Findings of ACL 2024</span>
+Hyeseon Ahn, Youngwook Kim, **Jungin Kim**, Yo-Sub Han<br>
+<span style="color: gray; font-style: italic;">Accepted in Findings of ACL 2024</span>
 
