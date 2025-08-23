@@ -54,7 +54,7 @@ Joonghyuk Hahn, Hyeseon Ahn, **Jungin Kim**, Soohan Lim, Yo-Sub Han<br>
 
 - **CodeComplex: A Time-Complexity Dataset for Bilingual Source Codes** [<a href="https://arxiv.org/abs/2401.08719v2" target="_blank">arXiv</a>]<br>
 Seung-Yeop Baik, Joonghyuk Hahn, **Jungin Kim**, Mingi Jeon, Yo-Sub Han, Sang-Ki Ko<br>
-<span style="color: gray; font-style: italic;">Under Review</span>
+<span style="color: gray; font-style: italic;">Accepted to findings of EMNLP 2025</span>
 
 - **SharedCon: Implicit Hate Speech Detection using Shared Semantics** [<a href="https://aclanthology.org/2024.findings-acl.622/" target="_blank">ACL 2024 Findings</a>]<br>
 Hyeseon Ahn, Youngwook Kim, **Jungin Kim**, Yo-Sub Han<br>
