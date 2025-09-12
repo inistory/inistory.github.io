@@ -40,21 +40,21 @@ I am a master's student at Yonsei University, Graduate School of Computer Scienc
 - <a href="/assets/pdf/Jungin_Kim_Portfolio.pdf" target="_blank">Download Portfolio (PDF)</a>
 
 ### Publications
-- **K-ToPiC: Korean Dialect Toxicity Polishing with Curriculum Learning-based Span Detection** <br>
-**Jungin Kim**, Soohan Lim, Hyeseon Ahn, Sang-Min Choi, Yo-Sub Han<br>
-<span style="color: gray; font-style: italic;">Accepted to KCC 2025</span>
-
 - **Marking Code Without Breaking It: Code Watermarking for Detecting LLM-Generated Code** [<a href="https://arxiv.org/abs/2502.18851" target="_blank">arXiv</a>]<br>
 **Jungin Kim**, Shinwoo Park, Yo-Sub Han<br>
 <span style="color: gray; font-style: italic;">Under Review</span>
 
-- **TCProF: Time-Complexity Prediction SSL Framework** [<a href="https://aclanthology.org/2025.naacl-long.482/" target="_blank">NAACL 2025</a>]<br>
-Joonghyuk Hahn, Hyeseon Ahn, **Jungin Kim**, Soohan Lim, Yo-Sub Han<br>
-<span style="color: gray; font-style: italic;">Accepted to NAACL 2025</span>
+- **K-ToPiC: Korean Dialect Toxicity Polishing with Curriculum Learning-based Span Detection** [<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318251&nodeId=NODE12318251&mobileYN=N&medaTypeCode=185005&isPDFSizeAllowed=true&locale=en&foreignIpYn=Y&articleTitle=K-ToPiC%3A+%ED%95%9C%EA%B5%AD%EC%96%B4+%EB%B0%A9%EC%96%B8+%EB%B9%84%EC%86%8D%EC%96%B4+%EC%99%84%ED%99%94+%EB%B0%8F+%EC%BB%A4%EB%A6%AC%ED%81%98%EB%9F%BC+%ED%95%99%EC%8A%B5+%EA%B8%B0%EB%B0%98+%EB%B9%84%EC%86%8D%EC%96%B4+%EA%B5%AC%EA%B0%84+%ED%83%90%EC%A7%80&articleTitleEn=K-ToPiC%3A+Korean+Dialect+Toxicity+Polishing+with+Curriculum+Learning-based+Span+Detection&voisId=VOIS00779540&voisName=%ED%95%9C%EA%B5%AD%EC%A0%95%EB%B3%B4%EA%B3%BC%ED%95%99%ED%9A%8C+2025+%ED%95%9C%EA%B5%AD%EC%BB%B4%ED%93%A8%ED%84%B0%EC%A2%85%ED%95%A9%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C+%EB%85%BC%EB%AC%B8%EC%A7%91&voisCnt=852&searchResultKey=%2FlMfWK6MWZi5N74t6Fqz8Yvaf69jY7MDycYvp6SzpBculYLxiZCCXir1ejeCC%2Bl%2F&language=en_US&hasTopBanner=true" target="_blank">KCC 2025</a>]<br>
+**Jungin Kim**, Soohan Lim, Hyeseon Ahn, Sang-Min Choi, Yo-Sub Han<br>
+<span style="color: gray; font-style: italic;">Accepted to KCC 2025</span>
 
 - **CodeComplex: A Time-Complexity Dataset for Bilingual Source Codes** [<a href="https://arxiv.org/abs/2401.08719v2" target="_blank">arXiv</a>]<br>
 Seung-Yeop Baik, Joonghyuk Hahn, **Jungin Kim**, Mingi Jeon, Yo-Sub Han, Sang-Ki Ko<br>
 <span style="color: gray; font-style: italic;">Accepted to findings of EMNLP 2025</span>
+
+- **TCProF: Time-Complexity Prediction SSL Framework** [<a href="https://aclanthology.org/2025.naacl-long.482/" target="_blank">NAACL 2025</a>]<br>
+Joonghyuk Hahn, Hyeseon Ahn, **Jungin Kim**, Soohan Lim, Yo-Sub Han<br>
+<span style="color: gray; font-style: italic;">Accepted to NAACL 2025</span>
 
 - **SharedCon: Implicit Hate Speech Detection using Shared Semantics** [<a href="https://aclanthology.org/2024.findings-acl.622/" target="_blank">ACL 2024 Findings</a>]<br>
 Hyeseon Ahn, Youngwook Kim, **Jungin Kim**, Yo-Sub Han<br>
