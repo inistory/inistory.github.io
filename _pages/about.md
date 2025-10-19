@@ -48,7 +48,7 @@ I am a master's student at Yonsei University, Graduate School of Computer Scienc
 **Jungin Kim**, Soohan Lim, Hyeseon Ahn, Sang-Min Choi, Yo-Sub Han<br>
 <span style="color: gray; font-style: italic;">Accepted to KCC 2025</span>
 
-- **CodeComplex: A Time-Complexity Dataset for Bilingual Source Codes** [<a href="https://arxiv.org/abs/2401.08719v2" target="_blank">arXiv</a>]<br>
+- **CodeComplex: A Time-Complexity Dataset for Bilingual Source Codes** [<a href="https://arxiv.org/abs/2401.08719v2" target="_blank">EMNLP 2025</a>]<br>
 Seung-Yeop Baik, Joonghyuk Hahn, **Jungin Kim**, Mingi Jeon, Yo-Sub Han, Sang-Ki Ko<br>
 <span style="color: gray; font-style: italic;">Accepted to findings of EMNLP 2025</span>
 
