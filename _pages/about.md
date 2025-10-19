@@ -36,7 +36,7 @@ I am a master's student at Yonsei University, Graduate School of Computer Scienc
 - [Blog](https://inistory.tistory.com/)
 
 ### CV & Portfolio
-- Download CV (PDF): <a href="/assets/pdf/JunginKim_CV.pdf" target="_blank">[ENG]</a> <a href="/assets/pdf/김정인_CV.pdf" target="_blank">[KOR]</a>
+- Download CV (PDF): <a href="/assets/pdf/JunginKim_CV_AI.pdf" target="_blank">[ENG]</a> <a href="/assets/pdf/김정인_CV_AI.pdf" target="_blank">[KOR]</a>
 - Download Portfolio (PDF): <a href="/assets/pdf/JunginKim_Portfolio_AI.pdf" target="_blank">[ENG]</a> <a href="/assets/pdf/김정인_포트폴리오_AI.pdf" target="_blank">[KOR]</a>
 
 ### Publications
