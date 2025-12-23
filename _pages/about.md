@@ -26,7 +26,11 @@ social: false # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a master's student at Yonsei University, Graduate School of Computer Science. I focus on applying language model techniques to real-world problems that require security, personalization, and ethical sensitivity. My work includes developing watermarking methods for detecting AI-generated code, designing recommender systems based on user behavior, and building NLP tools that mitigate harmful or biased content. I aim to bridge AI research with practical systems that are secure, transparent, and user-centric.
+I am a master’s student in Computer Science at Yonsei University with 4 years of experience in natural language processing research and 1 year of industry experience in data analysis and machine learning.
+
+My work focuses on analyzing large-scale data and building practical systems, including watermarking methods for identifying LLM-generated code, implicit hate speech detection and mitigation, and personalized recommender systems based on user behavior data.
+
+I am interested in developing data-driven systems that translate research ideas into real-world applications, with an emphasis on reliability, transparency, and measurable impact.
 
 ### Connect
 - jungin3486@gmail.com
