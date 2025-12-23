@@ -35,7 +35,7 @@ I am interested in developing data-driven systems that translate research ideas 
 ### Connect
 - jungin3486@gmail.com
 - [Google Scholar](https://scholar.google.com/citations?user=jLI2V78AAAAJ&hl=ko&oi=ao)  
-- [LinkedIn](https://www.linkedin.com/in/jungin-kim-03a7571a6/)  
+- [LinkedIn](https://www.linkedin.com/in/inistory/)  
 - [GitHub](https://github.com/inistory)  
 - [Blog](https://inistory.tistory.com/)
 
