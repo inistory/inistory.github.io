@@ -44,7 +44,7 @@ I am interested in developing data-driven systems that translate research ideas 
 - Download Portfolio (PDF): <a href="/assets/pdf/JunginKim_Portfolio_AI.pdf" target="_blank">[ENG]</a> <a href="/assets/pdf/김정인_포트폴리오_AI.pdf" target="_blank">[KOR]</a>
 
 ### Publications
-- **Marking Code Without Breaking It: Code Watermarking for Detecting LLM-Generated Code** [<a href="https://arxiv.org/abs/2502.18851" target="_blank">EACL 2026 Findings</a>]<br>
+- **Marking Code Without Breaking It: Code Watermarking for Detecting LLM-Generated Code** [<a href="https://arxiv.org/abs/2502.18851" target="_blank">EACL 2026</a>]<br>
 **Jungin Kim**, Shinwoo Park, Yo-Sub Han<br>
 <span style="color: gray; font-style: italic;">Accepted in Findings of EACL 2026</span>
 
@@ -54,13 +54,13 @@ I am interested in developing data-driven systems that translate research ideas 
 
 - **CodeComplex: A Time-Complexity Dataset for Bilingual Source Codes** [<a href="https://arxiv.org/abs/2401.08719v2" target="_blank">EMNLP 2025</a>]<br>
 Seung-Yeop Baik, Joonghyuk Hahn, **Jungin Kim**, Mingi Jeon, Yo-Sub Han, Sang-Ki Ko<br>
-<span style="color: gray; font-style: italic;">Accepted to Findings of EMNLP 2025</span>
+<span style="color: gray; font-style: italic;">Accepted in Findings of EMNLP 2025</span>
 
 - **TCProF: Time-Complexity Prediction SSL Framework** [<a href="https://aclanthology.org/2025.naacl-long.482/" target="_blank">NAACL 2025</a>]<br>
 Joonghyuk Hahn, Hyeseon Ahn, **Jungin Kim**, Soohan Lim, Yo-Sub Han<br>
 <span style="color: gray; font-style: italic;">Accepted to NAACL 2025</span>
 
-- **SharedCon: Implicit Hate Speech Detection using Shared Semantics** [<a href="https://aclanthology.org/2024.findings-acl.622/" target="_blank">ACL 2024 Findings</a>]<br>
+- **SharedCon: Implicit Hate Speech Detection using Shared Semantics** [<a href="https://aclanthology.org/2024.findings-acl.622/" target="_blank">ACL 2024</a>]<br>
 Hyeseon Ahn, Youngwook Kim, **Jungin Kim**, Yo-Sub Han<br>
 <span style="color: gray; font-style: italic;">Accepted in Findings of ACL 2024</span>
 
